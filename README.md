@@ -1,0 +1,3 @@
+- Hi, I’m @h3ll0sys
+- I’m interested in python
+- I’m currently trying learning C
